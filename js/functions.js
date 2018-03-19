@@ -29,8 +29,8 @@ function createItem(dinnerItem) {
 
     // analyzes the content of the string to determine the size of the DIV
     var enteredString = getLargestString(dinnerItem.name);
-    newItem.style.width = enteredString[0] * 5 + "vw";
-    newItem.style.height = (dinnerItem.name.length / enteredString[0]) * 10 + "vw";
+    newItem.style.width = enteredString[0] * 2.5 + "vw";
+    newItem.style.height = (dinnerItem.name.length / enteredString[0]) * 5 + "vw";
 
 
     // create item child front
