@@ -1,1 +1,1 @@
-# CSS-Objects-DOM-Manipulations
+# JS-Objects-DOM-Manipulations
